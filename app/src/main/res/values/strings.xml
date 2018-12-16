@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Lessons App</string>
+
+    <string name="hint_enter_text">Введіть текст</string>
+
+    <!--Текст із третього уроки який винесений у ресурси-->
+    <string name="l3_first_button">Кнопка із заокругленими краями, при натисканні змінює колір</string>
+    <string name="l3_second_button">Кнопка із градієнтом</string>
+    <string name="l3_third_button">Кнопка із Обводкою</string>
+    <string name="l3_fourth_button">Кнопка із Обводкою з пробілами</string>
+    <string name="clear">Clear</string>
+
 </resources>

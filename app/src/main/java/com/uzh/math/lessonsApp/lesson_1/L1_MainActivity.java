@@ -25,7 +25,6 @@ public class L1_MainActivity extends AppCompatActivity {
         et_input = findViewById(R.id.et_input);
         btn_minus = findViewById(R.id.btn_minus);
         btn_plus = findViewById(R.id.btn_plus);
-
         //TODO Ставимо оброник на натискання кнопки (Обробник - те що має виконатися коли кнопки натиснута)
         btn_minus.setOnClickListener(new View.OnClickListener() {
             @Override

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Selector набір елементів які будуть застосовуватися для відповідного стану-->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--Описується як повинна виглядати елемент при різних станах-->
+    <item android:state_pressed="false" android:drawable="@drawable/rounded_button_not_pressed"/>
+    <item android:state_pressed="true" android:drawable="@drawable/rounded_button_pressed"/>
+
+</selector>

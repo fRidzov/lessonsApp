@@ -6,11 +6,7 @@
 
     <EditText
         android:id="@+id/et_input"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:hint="Введіть текст"
-        android:inputType="number"
-        android:textSize="48sp" />
+        style="@style/MyEditText.MyEditText2" />
 
     <LinearLayout
         android:layout_width="match_parent"

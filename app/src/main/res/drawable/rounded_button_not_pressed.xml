@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--shape це фігура яка буде задана кнопці-->
+<shape android:shape="rectangle" xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--Solid заливка колорьом яка буде застосована до кнопки-->
+    <solid android:color="@android:color/holo_blue_bright"/>
+
+    <!--Corners заокруглення які будуть на кутах застосовані-->
+    <corners android:radius="32dp"/>
+</shape>
